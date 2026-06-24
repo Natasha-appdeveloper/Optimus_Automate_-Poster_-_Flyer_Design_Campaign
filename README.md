@@ -19,7 +19,7 @@ Write a short design rationale explaining creative choices
 
 
 
-🌍 Campaign Overview
+Campaign Overview
 
 Campaign Name: Earth Is Not Disposable
 Cause: Forest Conservation / Climate Change Awareness
@@ -27,12 +27,12 @@ Tagline: "There is no Planet B."
 Tone: Urgent, emotional, nature-driven, call-to-action focused
 
 
-🎨 Design Identity
+Design Identity
 
 PropertyDetailsPrimary colorsDeep black, forest green, olive/gold accent, whiteTypographyBold condensed sans-serif for headlines, clean sans-serif for body textImagery styleMix of illustrated nature scenes and real photographic contrast imageryDesign ToolCanva
 
 
-📁 Repository Structure
+Repository Structure
 
 ├── Poster_01_The_Last_Tree.png
 ├── Poster_02_No_Trees_No_Tomorrow.png
@@ -40,7 +40,7 @@ PropertyDetailsPrimary colorsDeep black, forest green, olive/gold accent, whiteT
 └── README.md
 
 
-🗂️ Poster Breakdown
+Poster Breakdown
 
 Poster 1 — "The Last Tree"
 
@@ -66,7 +66,7 @@ Call to Action: Plant One Tree Today.
 RequirementStatus3-piece poster/flyer campaign✅ 3 posters deliveredStrong typography✅ Bold condensed headlines across all postersStrong imagery✅ Photographic + illustrated visuals usedClear call to action✅ Each poster has a distinct, clear CTAPrint-ready files (300 DPI, CMYK)✅ Exported as print-ready PDFsWeb-optimized versions✅ Exported as PNG files (included in this repo)Design rationale✅ Included below
 
 
-✍️ Design Rationale
+Design Rationale
 
 This campaign was built around a simple idea: make people feel the loss before they see the statistics. Rather than relying purely on data or facts, each poster uses a strong visual and emotional hook first, paired with a short, memorable headline.
 
@@ -87,7 +87,7 @@ All posters are available as editable Canva files here:
 https://canva.link/44lg20aglcwcleh
 
 
-🏢 Internship Details
+Internship Details
 
 Organization: Optimus Automate
 Program: Graphic Design Internship
@@ -95,7 +95,7 @@ Task: Task 4 — Poster & Flyer Design Campaign
 Website: https://optimusautomate.com/
 
 
-👩‍🎨 Designed By
+Designed By
 
 [Natasha Maryam]
 Graphic Design Intern — Optimus Automate
